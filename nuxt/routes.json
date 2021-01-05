@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\portfolio\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_d89bd486"
+  },
+  {
+    "name": "Contact",
+    "path": "/Contact",
+    "component": "D:\\\\portfolio\\\\pages\\\\Contact.vue",
+    "chunkName": "pages/Contact",
+    "_name": "_552bd2a0"
+  },
+  {
+    "name": "Intro",
+    "path": "/Intro",
+    "component": "D:\\\\portfolio\\\\pages\\\\Intro.vue",
+    "chunkName": "pages/Intro",
+    "_name": "_e2201e08"
+  },
+  {
+    "name": "Portfolio",
+    "path": "/Portfolio",
+    "component": "D:\\\\portfolio\\\\pages\\\\Portfolio.vue",
+    "chunkName": "pages/Portfolio",
+    "_name": "_145705d8"
+  },
+  {
+    "name": "PostService",
+    "path": "/PostService",
+    "component": "D:\\\\portfolio\\\\pages\\\\PostService.js",
+    "chunkName": "pages/PostService",
+    "_name": "_ac8e962c"
+  },
+  {
+    "name": "Works",
+    "path": "/Works",
+    "component": "D:\\\\portfolio\\\\pages\\\\Works.vue",
+    "chunkName": "pages/Works",
+    "_name": "_c5eda9dc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\portfolio\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_992c1efc"
+  }
+]
