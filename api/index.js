@@ -18,8 +18,6 @@ app.post('/', async function(req, res){
     await posts.insertOne({
         skillName: req.body.text1,
         skillPie: req.body.text2,
-        skillBarName: req.body.text3,
-        skillBarRate: req.body.text4,
         createdAt: new Date()
     });
     res.status(201).send();

@@ -22,10 +22,6 @@ export default {
       path: '/api',
       handler:'~/api/index.js'
     },
-    {
-      path: '/api',
-      handler:'~/api/indexBar.js'
-    }
   ],
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
